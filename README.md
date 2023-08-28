@@ -3,5 +3,5 @@
 Saving Tennis Game
 
 Team members -\
-__Betina Sowmya\
+  Betina Sowmya\
   K Sai Sidhartha Reddy
